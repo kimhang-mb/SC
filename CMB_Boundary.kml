@@ -20,7 +20,7 @@
       <scale>0.000000</scale>
     </LabelStyle>
     <LineStyle>
-      <color>FF000000</color>
+      <color>ff000000</color>
       <width>1.000000</width>
     </LineStyle>
     <PolyStyle>
@@ -31,6 +31,3 @@
   </Document>
 
 </kml>
-
-
-
