@@ -21,7 +21,7 @@
     </LabelStyle>
     <LineStyle>
       <color>ffa500</color>
-      <width>2.000000</width>
+      <width>1.000000</width>
     </LineStyle>
     <PolyStyle>
       <color>00828282</color>
@@ -31,3 +31,4 @@
   </Document>
 
 </kml>
+
